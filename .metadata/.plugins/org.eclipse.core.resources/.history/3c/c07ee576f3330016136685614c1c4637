@@ -5,7 +5,7 @@ public class Hello {
         System.out.println("Hello, World Richard y Luis y carmen +eliuth!+Chikis");
         System.out.println("Hello, coomo estas"); 
         System.out.println("Hello, coomo estas esta navidad"); 
-        System.out.println("Hello, coomo estas esta navidad2"); 
+        
     }
 
 	
