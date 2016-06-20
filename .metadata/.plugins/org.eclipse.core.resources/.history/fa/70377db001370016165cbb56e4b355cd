@@ -13,7 +13,7 @@ public class Triangulo {
 		System.out.print("Inntroduce la Altura: ");
 		altura=Entrada.leerDoble();
 		area=(base*altura)/2;
-		System.out.print("El area del triangulo es: "+area);		
+				
 	}
 
 }

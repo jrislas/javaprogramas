@@ -8,7 +8,7 @@ public class Triangulo {
 	
 		double base=0, altura=0 , area=0;
 		
-		System.out.print("Introduce la Base:  ");
+		System.out.println("Introduce la Base:  ");
 		base= Entrada.leerEntero();
 		System.out.print("Inntroduce la Altura: ");
 		altura=Entrada.leerDoble();
