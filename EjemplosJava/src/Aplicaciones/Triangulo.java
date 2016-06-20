@@ -14,6 +14,11 @@ public class Triangulo {
 		altura=Entrada.leerDoble();
 		area=(base*altura)/2;
 		System.out.print("El area del triangulo es: "+area);		
+		System.out.print("Garcias por usar el Metodo");	
+	
 	}
 
+	
+	
+	
 }
