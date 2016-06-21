@@ -1,0 +1,27 @@
+package Aplicaciones;
+import EntradaDatos.*;
+import java.io.*;
+
+
+public class comparacionNumeros {
+
+	public static void main(String[] args) {
+
+
+		System.out.println("Dame un Numero:");
+		numero1= Entrada.leerEntero();
+
+        System.out.println("Dame otro Numero");
+        numero2=Entrada.leerEntero();
+
+        If(numero1>numero2){
+        	System.out.println("El numero mayor es:"+numero1);
+        }else{
+        	System.out.println("El numero mayor es :"+numero2);
+        }
+		 
+
+	}
+        
+
+}
